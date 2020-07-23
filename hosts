@@ -1,9 +1,2 @@
-127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
-::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
-
-172.31.39.221 checkmk.suvishesh.com
-172.31.47.16 jenkins.suvishesh.com
-
-3.134.245.54 docker_one
-18.218.224.90 docker_two
-
+172.31.16.171
+172.31.32.233
